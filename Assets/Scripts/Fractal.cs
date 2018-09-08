@@ -20,7 +20,6 @@ public class Fractal : MonoBehaviour {
             StartCoroutine(CreateChildren());
         }
 
-
     }
 
     public float childScale;
